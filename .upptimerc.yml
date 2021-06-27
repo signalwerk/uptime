@@ -7,6 +7,10 @@ sites:
     url: https://lm-a.ch/
   - name: sfgz
     url: https://sfgz.ch/
+  - name: signalwerk – ci
+    url: https://ci.signalwerk.ch/
+  - name: signalwerk – main
+    url: https://signalwerk.ch/
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
