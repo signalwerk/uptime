@@ -13,8 +13,8 @@ sites:
     url: https://signalwerk.ch/
   - name: Team hp Schneider
     url: http://www.teamschneider.ch/
-#   - name: Halle 710
-#     url: https://www.planungszone-ausstellung.ch
+  - name: Halle 710
+    url: https://www.planungszone-ausstellung.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
