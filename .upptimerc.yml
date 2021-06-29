@@ -11,10 +11,10 @@ sites:
     url: https://ci.signalwerk.ch/
   - name: signalwerk – main
     url: https://signalwerk.ch/
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
+  - name: Team hp Schneider
+    url: http://www.teamschneider.ch/
+#   - name: Halle 710
+#     url: https://www.planungszone-ausstellung.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,9 +22,9 @@ status-website:
   cname: uptime.signalwerk.ch
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime
+  introTitle: "**Uptime** of sites I'm somehow involved"
+  introMessage: Overview
   navbar:
     - title: Status
       href: /
