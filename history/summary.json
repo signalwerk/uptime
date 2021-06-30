@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/ci.signalwerk.ch",
     "slug": "signalwerk-ci",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 968,
     "timeDay": 1595,
     "timeWeek": 968,
     "timeMonth": 968,
     "timeYear": 968,
-    "dailyMinutesDown": {
-      "2021-06-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "signalwerk – main",
@@ -96,17 +94,19 @@
     "url": "https://zwergenritter.ch/",
     "icon": "https://favicons.githubusercontent.com/zwergenritter.ch",
     "slug": "zwergenritter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1209,
-    "timeWeek": 1209,
-    "timeMonth": 1209,
-    "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1420,
+    "timeDay": 1420,
+    "timeWeek": 1420,
+    "timeMonth": 1420,
+    "timeYear": 1420,
+    "dailyMinutesDown": {
+      "2021-06-30": 0
+    }
   }
 ]
