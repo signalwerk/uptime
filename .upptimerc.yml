@@ -16,7 +16,7 @@ sites:
   - name: Zwergenritter
     url: https://zwergenritter.ch/
   - name: Halle 710
-    url: https://www.planungszone-ausstellung.ch
+    url: http://planungszone-ausstellung.ch/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
