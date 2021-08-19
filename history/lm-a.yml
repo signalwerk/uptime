@@ -1,7 +1,7 @@
 url: https://lm-a.ch/
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2021-08-18T23:05:48.708Z
+status: down
+code: 500
+responseTime: 500
+lastUpdated: 2021-08-19T03:39:49.907Z
 startTime: Sun Jun 27 2021 21:03:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
