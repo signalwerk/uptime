@@ -1,7 +1,7 @@
 url: https://ci.signalwerk.ch/
-status: down
-code: 502
-responseTime: 207
-lastUpdated: 2021-09-04T07:40:19.191Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2021-09-04T07:48:33.508Z
 startTime: Sun Jun 27 2021 22:13:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
