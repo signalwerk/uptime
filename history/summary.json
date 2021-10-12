@@ -52,15 +52,15 @@
     "url": "https://ci.signalwerk.ch/",
     "icon": "https://favicons.githubusercontent.com/ci.signalwerk.ch",
     "slug": "signalwerk-ci",
-    "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "57.93%",
+    "status": "down",
+    "uptime": "96.04%",
+    "uptimeDay": "58.57%",
     "uptimeWeek": "47.95%",
-    "uptimeMonth": "86.04%",
-    "uptimeYear": "96.02%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "96.04%",
     "time": 645,
-    "timeDay": 734,
-    "timeWeek": 749,
+    "timeDay": 727,
+    "timeWeek": 747,
     "timeMonth": 603,
     "timeYear": 645,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 611,
       "2021-10-04": 602,
-      "2021-10-03": 271
+      "2021-10-03": 240
     }
   },
   {
@@ -143,7 +143,7 @@
     "uptime": "64.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.27%",
+    "uptimeMonth": "46.29%",
     "uptimeYear": "64.73%",
     "time": 521,
     "timeDay": 383,
