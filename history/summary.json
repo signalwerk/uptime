@@ -36,9 +36,9 @@
     "url": "https://sfgz.ch/",
     "icon": "https://favicons.githubusercontent.com/sfgz.ch",
     "slug": "sfgz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -48,6 +48,7 @@
     "timeMonth": 848,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2022-03-28": 0,
       "2021-12-16": 26,
       "2021-10-08": 148
     }
@@ -69,7 +70,7 @@
     "timeMonth": 590,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-03-28": 20,
+      "2022-03-28": 21,
       "2022-03-27": 1440,
       "2022-03-26": 194,
       "2022-03-25": 846,
@@ -313,7 +314,7 @@
     "timeMonth": 1733,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2022-03-28": 20,
+      "2022-03-28": 21,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
