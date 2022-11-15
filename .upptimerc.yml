@@ -17,6 +17,8 @@ sites:
     url: https://zwergenritter.ch/
   - name: Halle 710
     url: http://planungszone-ausstellung.ch/
+  - name: Beda Schmid
+    url: https://bedaschmid.ch/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
