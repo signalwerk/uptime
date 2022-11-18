@@ -7,18 +7,18 @@ sites:
     url: https://lm-a.ch/
   - name: sfgz
     url: https://sfgz.ch/
-  - name: signalwerk – ci
-    url: https://ci.signalwerk.ch/
   - name: signalwerk – main
     url: https://signalwerk.ch/
-  - name: Team hp Schneider
-    url: http://www.teamschneider.ch/
   - name: Zwergenritter
     url: https://zwergenritter.ch/
   - name: Halle 710
     url: http://planungszone-ausstellung.ch/
   - name: Beda Schmid
     url: https://bedaschmid.ch/
+  - name: Veso
+    url: https://www.veso.ch/
+  - name: Gesamtschule Winterthur
+    url: https://gesamtschulewinterthur.ch/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
