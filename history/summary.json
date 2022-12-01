@@ -152,7 +152,7 @@
     "timeMonth": 1496,
     "timeYear": 1352,
     "dailyMinutesDown": {
-      "2022-12-01": 1075,
+      "2022-12-01": 1083,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
@@ -464,19 +464,19 @@
     "url": "https://www.veso.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.veso.ch.ico",
     "slug": "veso",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1776,
-    "timeDay": 1937,
-    "timeWeek": 1673,
-    "timeMonth": 1776,
-    "timeYear": 1776,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1778,
+    "timeDay": 1872,
+    "timeWeek": 1690,
+    "timeMonth": 1778,
+    "timeYear": 1778,
     "dailyMinutesDown": {
-      "2022-12-01": 0
+      "2022-12-01": 8
     }
   },
   {
