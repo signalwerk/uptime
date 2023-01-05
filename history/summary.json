@@ -110,7 +110,7 @@
     "uptime": "95.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.00%",
+    "uptimeMonth": "53.99%",
     "uptimeYear": "93.89%",
     "time": 1634,
     "timeDay": 0,
@@ -118,7 +118,7 @@
     "timeMonth": 554,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2023-01-05": 24,
+      "2023-01-05": 25,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
@@ -167,7 +167,7 @@
     "timeMonth": 1560,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2023-01-05": 24,
+      "2023-01-05": 25,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
@@ -515,18 +515,20 @@
     "url": "https://www.veso.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.veso.ch.ico",
     "slug": "veso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1769,
-    "timeDay": 2073,
-    "timeWeek": 1542,
-    "timeMonth": 1772,
-    "timeYear": 1769,
-    "dailyMinutesDown": {}
+    "time": 1746,
+    "timeDay": 1315,
+    "timeWeek": 1443,
+    "timeMonth": 1737,
+    "timeYear": 1746,
+    "dailyMinutesDown": {
+      "2023-01-05": 0
+    }
   },
   {
     "name": "Gesamtschule Winterthur",
