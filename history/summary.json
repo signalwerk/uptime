@@ -149,18 +149,20 @@
     "url": "https://gesamtschulewinterthur.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/gesamtschulewinterthur.ch.ico",
     "slug": "gesamtschule-winterthur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1144,
     "timeDay": 1602,
     "timeWeek": 1194,
     "timeMonth": 1145,
     "timeYear": 1144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 3
+    }
   },
   {
     "name": "Höllgrotten",
