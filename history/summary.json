@@ -4,18 +4,19 @@
     "url": "https://lm-a.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/lm-a.ch.ico",
     "slug": "lm-a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 739,
+    "time": 738,
     "timeDay": 486,
     "timeWeek": 628,
     "timeMonth": 637,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2023-01-23": 2,
       "2023-01-18": 46,
       "2022-11-10": 95,
       "2022-09-28": 61,
@@ -107,10 +108,10 @@
     "url": "https://bedaschmid.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/bedaschmid.ch.ico",
     "slug": "beda-schmid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.28%",
     "time": 698,
@@ -119,6 +120,7 @@
     "timeMonth": 729,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2023-01-23": 2,
       "2023-01-03": 33,
       "2022-11-16": 568,
       "2022-11-15": 109
@@ -150,28 +152,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/gesamtschulewinterthur.ch.ico",
     "slug": "gesamtschule-winterthur",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1150,
     "timeDay": 1586,
     "timeWeek": 1236,
     "timeMonth": 1158,
     "timeYear": 1150,
-    "dailyMinutesDown": {
-      "2023-01-23": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Höllgrotten",
     "url": "https://www.hoellgrotten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hoellgrotten.ch.ico",
     "slug": "hoellgrotten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -180,6 +180,8 @@
     "timeWeek": 1021,
     "timeMonth": 1021,
     "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   }
 ]
