@@ -66,7 +66,7 @@
     "timeMonth": 120,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-03-21": 1191,
+      "2024-03-21": 1200,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-03-21": 1191,
+      "2024-03-21": 1200,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -523,11 +523,11 @@
     "url": "https://gesamtschulewinterthur.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/gesamtschulewinterthur.ch.ico",
     "slug": "gesamtschule-winterthur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1340,
     "timeDay": 966,
@@ -535,7 +535,7 @@
     "timeMonth": 1248,
     "timeYear": 1393,
     "dailyMinutesDown": {
-      "2024-03-21": 8
+      "2024-03-21": 0
     }
   },
   {
