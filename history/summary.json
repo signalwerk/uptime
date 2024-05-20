@@ -30,10 +30,10 @@
     "url": "https://sfgz.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/sfgz.ch.ico",
     "slug": "sfgz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "82.33%",
-    "uptimeWeek": "82.37%",
+    "uptimeWeek": "82.38%",
     "uptimeMonth": "83.95%",
     "uptimeYear": "98.21%",
     "time": 1135,
@@ -42,6 +42,7 @@
     "timeMonth": 2599,
     "timeYear": 1170,
     "dailyMinutesDown": {
+      "2024-05-20": 0,
       "2024-05-19": 254,
       "2024-05-18": 259,
       "2024-05-17": 259,
@@ -103,7 +104,7 @@
     "timeMonth": 121,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-05-20": 24,
+      "2024-05-20": 51,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -487,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2024-05-20": 24,
+      "2024-05-20": 51,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
