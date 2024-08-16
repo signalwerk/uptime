@@ -106,7 +106,7 @@
     "timeMonth": 159,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-08-16": 666,
+      "2024-08-16": 678,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -490,7 +490,7 @@
     "timeMonth": 0,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-08-16": 667,
+      "2024-08-16": 678,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -710,19 +710,19 @@
     "url": "https://gesamtschulewinterthur.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/gesamtschulewinterthur.ch.ico",
     "slug": "gesamtschule-winterthur",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1409,
-    "timeDay": 1325,
-    "timeWeek": 1408,
-    "timeMonth": 1353,
-    "timeYear": 1438,
+    "time": 1407,
+    "timeDay": 1156,
+    "timeWeek": 1334,
+    "timeMonth": 1336,
+    "timeYear": 1437,
     "dailyMinutesDown": {
-      "2024-08-16": 0
+      "2024-08-16": 11
     }
   },
   {
