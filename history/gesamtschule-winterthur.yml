@@ -1,7 +1,7 @@
 url: https://gesamtschulewinterthur.ch/
-status: up
-code: 200
-responseTime: 7822
-lastUpdated: 2025-02-05T07:29:10.473Z
+status: down
+code: 503
+responseTime: 8347
+lastUpdated: 2025-02-05T07:45:32.747Z
 startTime: 2022-11-18T11:41:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
