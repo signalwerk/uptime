@@ -157,7 +157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "43.86%",
+    "uptime": "43.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -168,7 +168,8 @@
     "timeMonth": 286,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-03-21": 1437,
+      "2025-03-22": 30,
+      "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -531,8 +532,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -541,7 +541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedaschmid.ch.ico",
     "slug": "beda-schmid",
     "status": "down",
-    "uptime": "52.52%",
+    "uptime": "52.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -552,7 +552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 1437,
+      "2025-03-22": 30,
+      "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -915,8 +916,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -947,10 +947,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gesamtschulewinterthur.ch.ico",
     "slug": "gesamtschule-winterthur",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.87%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 2594,
     "timeDay": 3248,
@@ -958,7 +958,6 @@
     "timeMonth": 3998,
     "timeYear": 3036,
     "dailyMinutesDown": {
-      "2025-03-21": 8,
       "2025-03-12": 34,
       "2025-02-26": 16,
       "2025-02-09": 32,
