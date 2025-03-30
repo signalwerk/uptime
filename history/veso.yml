@@ -1,7 +1,7 @@
 url: https://www.veso.ch/
-status: up
-code: 200
-responseTime: 1373
-lastUpdated: 2025-03-30T23:06:36.623Z
+status: down
+code: 503
+responseTime: 493
+lastUpdated: 2025-03-30T23:46:45.753Z
 startTime: 2022-11-18T11:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
