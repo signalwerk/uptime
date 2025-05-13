@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.74%",
-    "time": 2192,
-    "timeDay": 2445,
-    "timeWeek": 2079,
-    "timeMonth": 2149,
-    "timeYear": 2785,
+    "time": 2195,
+    "timeDay": 2625,
+    "timeWeek": 2063,
+    "timeMonth": 2168,
+    "timeYear": 2790,
     "dailyMinutesDown": {
       "2025-02-24": 15,
       "2024-12-03": 518,
@@ -33,8 +33,7 @@
       "2024-11-13": 66,
       "2024-10-17": 32,
       "2024-10-04": 62,
-      "2024-06-12": 523,
-      "2024-05-13": 21
+      "2024-06-12": 523
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.22%",
-    "time": 1455,
-    "timeDay": 740,
-    "timeWeek": 780,
-    "timeMonth": 796,
-    "timeYear": 1335,
+    "time": 1454,
+    "timeDay": 911,
+    "timeWeek": 786,
+    "timeMonth": 804,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2024-11-11": 308,
       "2024-11-10": 277,
@@ -125,8 +124,7 @@
       "2024-05-17": 259,
       "2024-05-16": 261,
       "2024-05-15": 257,
-      "2024-05-14": 251,
-      "2024-05-13": 236
+      "2024-05-14": 251
     }
   },
   {
@@ -135,18 +133,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "42.26%",
+    "uptime": "42.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 147,
-    "timeDay": 157,
-    "timeWeek": 141,
-    "timeMonth": 148,
+    "timeDay": 101,
+    "timeWeek": 124,
+    "timeMonth": 147,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-05-12": 507,
+      "2025-05-13": 34,
+      "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -509,8 +508,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -519,18 +517,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedaschmid.ch.ico",
     "slug": "beda-schmid",
     "status": "down",
-    "uptime": "49.55%",
+    "uptime": "49.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 699,
+    "time": 693,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 507,
+      "2025-05-13": 34,
+      "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -893,8 +892,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -908,11 +906,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1358,
-    "timeDay": 1067,
-    "timeWeek": 1189,
-    "timeMonth": 1185,
-    "timeYear": 1398,
+    "time": 1360,
+    "timeDay": 1826,
+    "timeWeek": 1208,
+    "timeMonth": 1216,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2025-03-31": 31,
       "2025-01-20": 54,
@@ -927,17 +925,16 @@
     "slug": "gesamtschule-winterthur",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.96%",
-    "time": 2949,
-    "timeDay": 3743,
-    "timeWeek": 3570,
-    "timeMonth": 4155,
-    "timeYear": 3432,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
+    "time": 2954,
+    "timeDay": 3503,
+    "timeWeek": 3550,
+    "timeMonth": 4181,
+    "timeYear": 3438,
     "dailyMinutesDown": {
-      "2025-05-12": 15,
       "2025-05-11": 16,
       "2025-04-16": 39,
       "2025-03-12": 34,
@@ -959,19 +956,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 1217,
-    "timeDay": 1306,
-    "timeWeek": 1521,
-    "timeMonth": 1236,
-    "timeYear": 1270,
+    "time": 1221,
+    "timeDay": 3322,
+    "timeWeek": 1819,
+    "timeMonth": 1314,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2025-04-30": 32,
       "2025-01-22": 19,
       "2025-01-13": 19,
       "2024-11-27": 16,
       "2024-11-13": 21,
-      "2024-08-07": 53,
-      "2024-05-13": 36
+      "2024-08-07": 53
     }
   }
 ]
