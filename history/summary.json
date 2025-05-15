@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.74%",
-    "time": 2199,
-    "timeDay": 2776,
-    "timeWeek": 2343,
+    "time": 2201,
+    "timeDay": 1959,
+    "timeWeek": 2304,
     "timeMonth": 2186,
-    "timeYear": 2774,
+    "timeYear": 2777,
     "dailyMinutesDown": {
       "2025-02-24": 15,
       "2024-12-03": 518,
@@ -47,10 +47,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.31%",
-    "time": 1454,
-    "timeDay": 986,
-    "timeWeek": 832,
-    "timeMonth": 809,
+    "time": 1455,
+    "timeDay": 1069,
+    "timeWeek": 855,
+    "timeMonth": 824,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2024-11-11": 308,
@@ -122,8 +122,7 @@
       "2024-05-19": 254,
       "2024-05-18": 259,
       "2024-05-17": 259,
-      "2024-05-16": 261,
-      "2024-05-15": 257
+      "2024-05-16": 261
     }
   },
   {
@@ -132,18 +131,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "42.19%",
+    "uptime": "42.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 147,
-    "timeDay": 305,
-    "timeWeek": 156,
-    "timeMonth": 154,
+    "time": 146,
+    "timeDay": 89,
+    "timeWeek": 148,
+    "timeMonth": 155,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-05-14": 1315,
+      "2025-05-15": 33,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -506,8 +506,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -516,7 +515,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedaschmid.ch.ico",
     "slug": "beda-schmid",
     "status": "down",
-    "uptime": "49.41%",
+    "uptime": "49.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -527,7 +526,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1315,
+      "2025-05-15": 33,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -890,8 +890,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -905,10 +904,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1360,
-    "timeDay": 1090,
-    "timeWeek": 1209,
-    "timeMonth": 1217,
+    "time": 1361,
+    "timeDay": 1071,
+    "timeWeek": 1198,
+    "timeMonth": 1227,
     "timeYear": 1398,
     "dailyMinutesDown": {
       "2025-05-14": 16,
@@ -929,11 +928,11 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 2966,
-    "timeDay": 3641,
-    "timeWeek": 3590,
-    "timeMonth": 4155,
-    "timeYear": 3444,
+    "time": 2969,
+    "timeDay": 3559,
+    "timeWeek": 3619,
+    "timeMonth": 4167,
+    "timeYear": 3449,
     "dailyMinutesDown": {
       "2025-05-14": 18,
       "2025-05-11": 16,
@@ -958,9 +957,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1223,
-    "timeDay": 1556,
-    "timeWeek": 1898,
-    "timeMonth": 1334,
+    "timeDay": 961,
+    "timeWeek": 1878,
+    "timeMonth": 1330,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2025-04-30": 32,
