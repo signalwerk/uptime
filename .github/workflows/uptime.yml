@@ -38,3 +38,6 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+          # Enable custom webhook notifications
+          NOTIFICATION_CUSTOM_WEBHOOK: true
+          NOTIFICATION_CUSTOM_WEBHOOK_URL: https://webhook-uptime.signalwerk.workers.dev/webhook
