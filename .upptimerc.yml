@@ -3,22 +3,24 @@ owner: signalwerk # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
-  - name: LM-A
-    url: https://lm-a.ch/
   - name: sfgz
     url: https://sfgz.ch/
   - name: signalwerk – main
     url: https://signalwerk.ch/
   # - name: Halle 710
   #   url: http://planungszone-ausstellung.ch/
-  - name: Beda Schmid
-    url: https://bedaschmid.ch/
+  - name: Beda Greenwood
+    url: https://bedagreenwood.com/
   - name: Veso
     url: https://www.veso.ch/
-  - name: Gesamtschule Winterthur
-    url: https://gesamtschulewinterthur.ch/
   - name: Höllgrotten
     url: https://www.hoellgrotten.ch/
+  - name: Webhook Test for Uptime
+    url: https://webhook-uptime.signalwerk.workers.dev/test
+
+notifications:
+  - type: webhook
+    url: https://webhook-uptime.signalwerk.workers.dev/webhook
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
