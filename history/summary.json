@@ -98,7 +98,7 @@
     "timeMonth": 161,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-05-22": 587,
+      "2025-05-22": 613,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -537,19 +537,19 @@
     "url": "https://webhook-uptime.signalwerk.workers.dev/test",
     "icon": "https://icons.duckduckgo.com/ip3/webhook-uptime.signalwerk.workers.dev.ico",
     "slug": "webhook-test-for-uptime",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "status": "up",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-05-22": 16
+      "2025-05-22": 42
     }
   }
 ]
