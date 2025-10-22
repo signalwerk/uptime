@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.82%",
     "time": 1191,
-    "timeDay": 669,
-    "timeWeek": 863,
-    "timeMonth": 778,
+    "timeDay": 912,
+    "timeWeek": 890,
+    "timeMonth": 780,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2025-10-03": 42,
@@ -38,8 +38,7 @@
       "2024-10-26": 278,
       "2024-10-25": 321,
       "2024-10-24": 288,
-      "2024-10-23": 214,
-      "2024-10-22": 216
+      "2024-10-23": 214
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "46.84%",
+    "uptime": "46.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.47%",
-    "time": 162,
-    "timeDay": 185,
-    "timeWeek": 209,
-    "timeMonth": 190,
+    "uptimeYear": "38.75%",
+    "time": 163,
+    "timeDay": 249,
+    "timeWeek": 223,
+    "timeMonth": 184,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2025-06-02": 861,
@@ -281,8 +280,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   },
   {
@@ -296,11 +294,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 945,
-    "timeDay": 621,
-    "timeWeek": 753,
-    "timeMonth": 758,
-    "timeYear": 945,
+    "time": 943,
+    "timeDay": 642,
+    "timeWeek": 767,
+    "timeMonth": 752,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-06-19": 36,
       "2025-06-05": 365
@@ -317,11 +315,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1365,
-    "timeDay": 1254,
-    "timeWeek": 1276,
+    "time": 1366,
+    "timeDay": 1258,
+    "timeWeek": 1295,
     "timeMonth": 1197,
-    "timeYear": 1373,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2025-06-11": 139,
       "2025-05-14": 16,
@@ -341,10 +339,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1274,
-    "timeDay": 885,
-    "timeWeek": 1132,
-    "timeMonth": 1290,
+    "time": 1275,
+    "timeDay": 1362,
+    "timeWeek": 1166,
+    "timeMonth": 1261,
     "timeYear": 1345,
     "dailyMinutesDown": {
       "2025-06-05": 358,
@@ -367,8 +365,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 241,
-    "timeDay": 163,
-    "timeWeek": 217,
+    "timeDay": 302,
+    "timeWeek": 239,
     "timeMonth": 198,
     "timeYear": 241,
     "dailyMinutesDown": {
