@@ -6,6 +6,8 @@ repo: uptime # The name of this repository
 sites:
   - name: sfgz
     url: https://sfgz.ch/
+  - name: sfgz – SSL Check
+    url: https://sfgz.ch/cert-check.php
   - name: signalwerk – main
     url: https://signalwerk.ch/
   # - name: Halle 710
