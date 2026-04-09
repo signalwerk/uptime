@@ -20,6 +20,10 @@ sites:
     url: https://www.hoellgrotten.ch/
   - name: Webhook Test for Uptime
     url: https://webhook-uptime.signalwerk.workers.dev/test
+  - name: Stiftung Team Ensemble · Drehscheibe
+    url: https://drehscheibe.team-ensemble.ch
+  - name: Stiftung Team Ensemble · Drehscheibe
+    url: https://youth-mental-health-day.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
