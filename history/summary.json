@@ -12,7 +12,7 @@
     "uptimeYear": "99.45%",
     "time": 812,
     "timeDay": 944,
-    "timeWeek": 797,
+    "timeWeek": 788,
     "timeMonth": 758,
     "timeYear": 834,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 201,
-    "timeWeek": 162,
+    "timeWeek": 163,
     "timeMonth": 156,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -58,10 +58,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.16%",
+    "uptimeYear": "92.18%",
     "time": 192,
     "timeDay": 228,
-    "timeWeek": 209,
+    "timeWeek": 206,
     "timeMonth": 189,
     "timeYear": 201,
     "dailyMinutesDown": {
@@ -92,8 +92,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -109,7 +108,7 @@
     "uptimeYear": "99.79%",
     "time": 832,
     "timeDay": 926,
-    "timeWeek": 778,
+    "timeWeek": 789,
     "timeMonth": 729,
     "timeYear": 832,
     "dailyMinutesDown": {
@@ -145,7 +144,7 @@
     "uptimeYear": "99.84%",
     "time": 1350,
     "timeDay": 4424,
-    "timeWeek": 1694,
+    "timeWeek": 1732,
     "timeMonth": 1371,
     "timeYear": 1281,
     "dailyMinutesDown": {
@@ -183,7 +182,7 @@
     "uptimeYear": "99.80%",
     "time": 1239,
     "timeDay": 1199,
-    "timeWeek": 1087,
+    "timeWeek": 1093,
     "timeMonth": 1085,
     "timeYear": 1279,
     "dailyMinutesDown": {
@@ -219,7 +218,7 @@
     "uptimeYear": "99.92%",
     "time": 235,
     "timeDay": 197,
-    "timeWeek": 199,
+    "timeWeek": 197,
     "timeMonth": 239,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -235,14 +234,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/drehscheibe.team-ensemble.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.61%",
     "uptimeDay": "97.52%",
     "uptimeWeek": "93.16%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "90.58%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "90.61%",
     "time": 979,
     "timeDay": 819,
-    "timeWeek": 1070,
+    "timeWeek": 1067,
     "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {
@@ -273,14 +272,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/youth-mental-health-day.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.61%",
     "uptimeDay": "97.52%",
     "uptimeWeek": "93.16%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "90.58%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "90.61%",
     "time": 979,
     "timeDay": 819,
-    "timeWeek": 1070,
+    "timeWeek": 1067,
     "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {
