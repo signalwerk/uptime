@@ -58,7 +58,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 195,
     "timeDay": 215,
     "timeWeek": 190,
@@ -78,16 +78,16 @@
     "url": "https://bedagreenwood.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bedagreenwood.com.ico",
     "slug": "beda-greenwood",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.04%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.76%",
-    "time": 821,
-    "timeDay": 623,
-    "timeWeek": 599,
-    "timeMonth": 694,
+    "time": 820,
+    "timeDay": 673,
+    "timeWeek": 613,
+    "timeMonth": 695,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2025-06-05": 365,
@@ -111,7 +111,7 @@
       "2026-05-11": 43,
       "2026-05-16": 26,
       "2026-05-22": 59,
-      "2026-05-27": 10
+      "2026-05-27": 57
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "https://www.veso.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.veso.ch.ico",
     "slug": "veso",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.06%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.80%",
     "time": 1356,
-    "timeDay": 1392,
-    "timeWeek": 1235,
-    "timeMonth": 2173,
+    "timeDay": 1428,
+    "timeWeek": 1261,
+    "timeMonth": 2156,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-06-11": 139,
@@ -154,7 +154,7 @@
       "2026-05-16": 21,
       "2026-05-18": 30,
       "2026-05-22": 54,
-      "2026-05-27": 5
+      "2026-05-27": 52
     }
   },
   {
@@ -162,17 +162,17 @@
     "url": "https://www.hoellgrotten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hoellgrotten.ch.ico",
     "slug": "hoellgrotten",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.77%",
     "time": 1235,
-    "timeDay": 1169,
-    "timeWeek": 1093,
-    "timeMonth": 1130,
-    "timeYear": 1262,
+    "timeDay": 1010,
+    "timeWeek": 1066,
+    "timeMonth": 1124,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2025-06-05": 358,
       "2026-02-17": 23,
@@ -195,7 +195,7 @@
       "2026-05-11": 33,
       "2026-05-16": 16,
       "2026-05-22": 49,
-      "2026-05-27": 0
+      "2026-05-27": 47
     }
   },
   {
