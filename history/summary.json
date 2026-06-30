@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "54.17%",
+    "uptime": "54.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -125,7 +125,7 @@
     "timeDay": 1343,
     "timeWeek": 1380,
     "timeMonth": 1291,
-    "timeYear": 1361,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-11-12": 19,
       "2026-02-17": 23,
@@ -173,7 +173,7 @@
     "timeDay": 1110,
     "timeWeek": 1072,
     "timeMonth": 1234,
-    "timeYear": 1249,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2026-02-17": 23,
       "2026-02-27": 15,
@@ -231,16 +231,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drehscheibe.team-ensemble.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "88.16%",
+    "uptime": "88.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "83.53%",
-    "uptimeYear": "88.16%",
-    "time": 1084,
-    "timeDay": 1480,
-    "timeWeek": 1231,
-    "timeMonth": 1124,
-    "timeYear": 1084,
+    "uptimeYear": "88.30%",
+    "time": 1082,
+    "timeDay": 1197,
+    "timeWeek": 1196,
+    "timeMonth": 1119,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -282,7 +282,8 @@
       "2026-06-10": 61,
       "2026-06-14": 1225,
       "2026-06-13": 136,
-      "2026-06-25": 50
+      "2026-06-25": 50,
+      "2026-06-30": 0
     }
   },
   {
@@ -291,16 +292,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/youth-mental-health-day.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "88.16%",
+    "uptime": "88.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "83.53%",
-    "uptimeYear": "88.16%",
-    "time": 1084,
-    "timeDay": 1480,
-    "timeWeek": 1231,
-    "timeMonth": 1124,
-    "timeYear": 1084,
+    "uptimeYear": "88.30%",
+    "time": 1082,
+    "timeDay": 1197,
+    "timeWeek": 1196,
+    "timeMonth": 1119,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -342,7 +343,8 @@
       "2026-06-10": 61,
       "2026-06-14": 1225,
       "2026-06-13": 136,
-      "2026-06-25": 50
+      "2026-06-25": 50,
+      "2026-06-30": 0
     }
   }
 ]
