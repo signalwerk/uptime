@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 821,
-    "timeDay": 894,
-    "timeWeek": 778,
-    "timeMonth": 762,
+    "time": 822,
+    "timeDay": 872,
+    "timeWeek": 812,
+    "timeMonth": 774,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2025-09-09": 72,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 712,
-    "timeWeek": 655,
-    "timeMonth": 605,
-    "timeYear": 407,
+    "time": 410,
+    "timeDay": 737,
+    "timeWeek": 686,
+    "timeMonth": 617,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   },
   {
@@ -58,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 261,
-    "timeWeek": 189,
-    "timeMonth": 173,
+    "time": 200,
+    "timeDay": 264,
+    "timeWeek": 204,
+    "timeMonth": 179,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -77,9 +77,9 @@
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.71%",
     "time": 809,
-    "timeDay": 728,
-    "timeWeek": 702,
-    "timeMonth": 695,
+    "timeDay": 721,
+    "timeWeek": 688,
+    "timeMonth": 706,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2026-02-17": 24,
@@ -115,17 +115,17 @@
     "url": "https://www.veso.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.veso.ch.ico",
     "slug": "veso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.72%",
-    "time": 1366,
-    "timeDay": 1343,
-    "timeWeek": 1380,
-    "timeMonth": 1291,
-    "timeYear": 1360,
+    "time": 1364,
+    "timeDay": 857,
+    "timeWeek": 1311,
+    "timeMonth": 1287,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-11-12": 19,
       "2026-02-17": 23,
@@ -155,7 +155,8 @@
       "2026-06-15": 122,
       "2026-06-16": 122,
       "2026-06-17": 94,
-      "2026-06-27": 33
+      "2026-06-27": 33,
+      "2026-07-01": 0
     }
   },
   {
@@ -169,11 +170,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.73%",
-    "time": 1249,
-    "timeDay": 1110,
-    "timeWeek": 1072,
-    "timeMonth": 1234,
-    "timeYear": 1250,
+    "time": 1250,
+    "timeDay": 1118,
+    "timeWeek": 1106,
+    "timeMonth": 1229,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2026-02-17": 23,
       "2026-02-27": 15,
@@ -216,9 +217,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 231,
-    "timeDay": 187,
-    "timeWeek": 184,
-    "timeMonth": 207,
+    "timeDay": 200,
+    "timeWeek": 189,
+    "timeMonth": 204,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-11-18": 179,
@@ -236,11 +237,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "83.53%",
     "uptimeYear": "88.30%",
-    "time": 1082,
-    "timeDay": 1197,
-    "timeWeek": 1196,
-    "timeMonth": 1119,
-    "timeYear": 1082,
+    "time": 1085,
+    "timeDay": 1213,
+    "timeWeek": 1255,
+    "timeMonth": 1131,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -282,8 +283,7 @@
       "2026-06-10": 61,
       "2026-06-14": 1225,
       "2026-06-13": 136,
-      "2026-06-25": 50,
-      "2026-06-30": 0
+      "2026-06-25": 50
     }
   },
   {
@@ -297,11 +297,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "83.53%",
     "uptimeYear": "88.30%",
-    "time": 1082,
-    "timeDay": 1197,
-    "timeWeek": 1196,
-    "timeMonth": 1119,
-    "timeYear": 1082,
+    "time": 1085,
+    "timeDay": 1213,
+    "timeWeek": 1255,
+    "timeMonth": 1131,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -343,8 +343,7 @@
       "2026-06-10": 61,
       "2026-06-14": 1225,
       "2026-06-13": 136,
-      "2026-06-25": 50,
-      "2026-06-30": 0
+      "2026-06-25": 50
     }
   }
 ]
