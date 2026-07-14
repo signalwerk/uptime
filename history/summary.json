@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "54.52%",
+    "uptime": "54.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -116,13 +116,13 @@
     "url": "https://www.veso.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.veso.ch.ico",
     "slug": "veso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.69%",
-    "time": 1360,
+    "time": 1359,
     "timeDay": 1074,
     "timeWeek": 1159,
     "timeMonth": 1319,
@@ -158,7 +158,8 @@
       "2026-06-17": 94,
       "2026-06-27": 33,
       "2026-07-01": 131,
-      "2026-07-06": 37
+      "2026-07-06": 37,
+      "2026-07-14": 0
     }
   },
   {
@@ -235,13 +236,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/drehscheibe.team-ensemble.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "89.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.45%",
+    "uptime": "89.36%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "92.39%",
     "uptimeMonth": "97.11%",
-    "uptimeYear": "89.75%",
+    "uptimeYear": "89.36%",
     "time": 1101,
-    "timeDay": 886,
+    "timeDay": 888,
     "timeWeek": 1281,
     "timeMonth": 1214,
     "timeYear": 1101,
@@ -290,7 +291,7 @@
       "2026-07-03": 62,
       "2026-07-09": 134,
       "2026-07-08": 22,
-      "2026-07-14": 0
+      "2026-07-14": 611
     }
   },
   {
@@ -299,13 +300,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/youth-mental-health-day.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "89.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.45%",
+    "uptime": "89.36%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "92.39%",
     "uptimeMonth": "97.11%",
-    "uptimeYear": "89.75%",
+    "uptimeYear": "89.36%",
     "time": 1101,
-    "timeDay": 886,
+    "timeDay": 888,
     "timeWeek": 1281,
     "timeMonth": 1214,
     "timeYear": 1101,
@@ -354,7 +355,7 @@
       "2026-07-03": 62,
       "2026-07-09": 134,
       "2026-07-08": 22,
-      "2026-07-14": 0
+      "2026-07-14": 611
     }
   }
 ]
