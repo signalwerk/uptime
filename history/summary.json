@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "54.74%",
+    "uptime": "54.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -238,16 +238,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drehscheibe.team-ensemble.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "84.27%",
-    "uptimeDay": "95.52%",
+    "uptime": "84.01%",
+    "uptimeDay": "62.35%",
     "uptimeWeek": "36.44%",
-    "uptimeMonth": "77.40%",
-    "uptimeYear": "84.27%",
-    "time": 1095,
-    "timeDay": 765,
-    "timeWeek": 963,
-    "timeMonth": 1165,
-    "timeYear": 1095,
+    "uptimeMonth": "76.31%",
+    "uptimeYear": "84.01%",
+    "time": 1093,
+    "timeDay": 725,
+    "timeWeek": 927,
+    "timeMonth": 1151,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -300,7 +300,7 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1213,
-      "2026-07-23": 64
+      "2026-07-23": 542
     }
   },
   {
@@ -309,16 +309,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/youth-mental-health-day.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "84.27%",
-    "uptimeDay": "95.52%",
+    "uptime": "84.01%",
+    "uptimeDay": "62.35%",
     "uptimeWeek": "36.44%",
-    "uptimeMonth": "77.40%",
-    "uptimeYear": "84.27%",
-    "time": 1095,
-    "timeDay": 765,
-    "timeWeek": 963,
-    "timeMonth": 1165,
-    "timeYear": 1095,
+    "uptimeMonth": "76.31%",
+    "uptimeYear": "84.01%",
+    "time": 1093,
+    "timeDay": 725,
+    "timeWeek": 927,
+    "timeMonth": 1151,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -371,7 +371,7 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1213,
-      "2026-07-23": 64
+      "2026-07-23": 542
     }
   }
 ]
