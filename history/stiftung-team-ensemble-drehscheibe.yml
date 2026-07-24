@@ -1,7 +1,7 @@
 url: https://drehscheibe.team-ensemble.ch
-status: up
-code: 200
-responseTime: 1510
-lastUpdated: 2026-07-24T16:38:33.655Z
+status: down
+code: 503
+responseTime: 411
+lastUpdated: 2026-07-24T22:08:13.407Z
 startTime: 2026-04-09T13:36:25.259Z
 generator: Upptime <https://github.com/upptime/upptime>
