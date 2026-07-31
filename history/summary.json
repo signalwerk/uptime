@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/signalwerk.ch.ico",
     "slug": "signalwerk-main",
     "status": "up",
-    "uptime": "54.93%",
+    "uptime": "54.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -128,7 +128,7 @@
     "timeDay": 1055,
     "timeWeek": 987,
     "timeMonth": 1147,
-    "timeYear": 1345,
+    "timeYear": 1346,
     "dailyMinutesDown": {
       "2025-11-12": 19,
       "2026-02-17": 23,
@@ -180,7 +180,7 @@
     "timeDay": 961,
     "timeWeek": 1129,
     "timeMonth": 2954,
-    "timeYear": 1389,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2026-02-17": 23,
       "2026-02-27": 15,
@@ -240,16 +240,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drehscheibe.team-ensemble.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "84.84%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "96.98%",
+    "uptime": "84.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.64%",
     "uptimeMonth": "75.67%",
-    "uptimeYear": "84.84%",
-    "time": 1086,
-    "timeDay": 1030,
-    "timeWeek": 1020,
-    "timeMonth": 1093,
-    "timeYear": 1086,
+    "uptimeYear": "84.97%",
+    "time": 1083,
+    "timeDay": 770,
+    "timeWeek": 1023,
+    "timeMonth": 1081,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -307,7 +307,8 @@
       "2026-07-25": 41,
       "2026-07-26": 32,
       "2026-07-27": 76,
-      "2026-07-30": 89
+      "2026-07-30": 89,
+      "2026-07-31": 0
     }
   },
   {
@@ -316,16 +317,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/youth-mental-health-day.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
-    "uptime": "84.84%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "96.98%",
+    "uptime": "84.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.64%",
     "uptimeMonth": "75.67%",
-    "uptimeYear": "84.84%",
-    "time": 1086,
-    "timeDay": 1030,
-    "timeWeek": 1020,
-    "timeMonth": 1093,
-    "timeYear": 1086,
+    "uptimeYear": "84.97%",
+    "time": 1083,
+    "timeDay": 770,
+    "timeWeek": 1023,
+    "timeMonth": 1081,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -383,7 +384,8 @@
       "2026-07-25": 41,
       "2026-07-26": 32,
       "2026-07-27": 76,
-      "2026-07-30": 89
+      "2026-07-30": 89,
+      "2026-07-31": 0
     }
   }
 ]
