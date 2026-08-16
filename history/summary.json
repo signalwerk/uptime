@@ -239,16 +239,16 @@
     "url": "https://drehscheibe.team-ensemble.ch",
     "icon": "https://icons.duckduckgo.com/ip3/drehscheibe.team-ensemble.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
-    "status": "down",
-    "uptime": "85.97%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "98.86%",
+    "status": "up",
+    "uptime": "85.96%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "81.01%",
-    "uptimeYear": "85.97%",
+    "uptimeYear": "85.96%",
     "time": 1096,
-    "timeDay": 1249,
-    "timeWeek": 1266,
-    "timeMonth": 1074,
+    "timeDay": 1231,
+    "timeWeek": 1259,
+    "timeMonth": 1075,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2026-04-09": 33,
@@ -315,7 +315,7 @@
       "2026-08-07": 128,
       "2026-08-08": 68,
       "2026-08-15": 59,
-      "2026-08-16": 57
+      "2026-08-16": 83
     }
   },
   {
@@ -323,16 +323,16 @@
     "url": "https://youth-mental-health-day.ch",
     "icon": "https://icons.duckduckgo.com/ip3/youth-mental-health-day.ch.ico",
     "slug": "stiftung-team-ensemble-drehscheibe",
-    "status": "down",
-    "uptime": "85.97%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "98.86%",
+    "status": "up",
+    "uptime": "85.96%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "81.01%",
-    "uptimeYear": "85.97%",
+    "uptimeYear": "85.96%",
     "time": 1096,
-    "timeDay": 1249,
-    "timeWeek": 1266,
-    "timeMonth": 1074,
+    "timeDay": 1231,
+    "timeWeek": 1259,
+    "timeMonth": 1075,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2026-04-09": 33,
@@ -399,7 +399,7 @@
       "2026-08-07": 128,
       "2026-08-08": 68,
       "2026-08-15": 59,
-      "2026-08-16": 57
+      "2026-08-16": 83
     }
   }
 ]
