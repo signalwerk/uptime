@@ -243,15 +243,15 @@
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
     "uptime": "87.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "87.90%",
-    "time": 1127,
-    "timeDay": 768,
-    "timeWeek": 822,
-    "timeMonth": 1066,
-    "timeYear": 1127,
+    "time": 1124,
+    "timeDay": 580,
+    "timeWeek": 768,
+    "timeMonth": 1045,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -328,7 +328,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 575,
       "2026-09-14": 26,
-      "2026-09-27": 285
+      "2026-09-27": 285,
+      "2026-10-09": 0
     }
   },
   {
@@ -338,15 +339,15 @@
     "slug": "stiftung-team-ensemble-drehscheibe",
     "status": "up",
     "uptime": "87.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "87.90%",
-    "time": 1127,
-    "timeDay": 768,
-    "timeWeek": 822,
-    "timeMonth": 1066,
-    "timeYear": 1127,
+    "time": 1124,
+    "timeDay": 580,
+    "timeWeek": 768,
+    "timeMonth": 1045,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2026-04-09": 33,
       "2026-04-11": 824,
@@ -423,7 +424,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 575,
       "2026-09-14": 26,
-      "2026-09-27": 285
+      "2026-09-27": 285,
+      "2026-10-09": 0
     }
   }
 ]
